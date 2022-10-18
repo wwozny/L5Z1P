@@ -1,0 +1,13 @@
+.container{
+    width: 94vw;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+
+
+@media screen and (min-width: 768px){
+        .container{
+            width: 640px;
+        }
+    }
+    
